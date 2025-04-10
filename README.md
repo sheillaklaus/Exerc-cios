@@ -1,2 +1,2 @@
-# Exercecicio EBAC
+# Exercecicio ebac
 Exercícios da Ebac de curso Qualidade
